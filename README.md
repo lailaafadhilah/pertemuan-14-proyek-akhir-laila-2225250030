@@ -96,6 +96,6 @@ Proyek berada pada tahap perancangan, meliputi penyusunan proposal, struktur pro
 
 ## Repository GitHub
 
-Nama repository: pertemuan-14-proyek-akhir-ziana-2225250076
+Nama repository: pertemuan-14-proyek-akhir-laila-2225250030
 
 Tautan repository: https://github.com/lailaafadhilah/pertemuan-14-proyek-akhir-laila-2225250030.git
