@@ -1,4 +1,6 @@
-### Program Rekap dan Analisis Nilai Matematika Kelas
+## Test Case
+
+## Program Rekap dan Analisis Nilai Matematika Kelas
 
 | ID | Kategori | Input/Kondisi | Expected Result | Status |
 |---|---|---|---|---|
